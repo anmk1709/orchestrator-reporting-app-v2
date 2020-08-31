@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchestrator-reporting-app-v2", "Orchestrator-reporting-app-v2\Orchestrator-reporting-app-v2.csproj", "{9DA36D85-A0C1-4587-9B3E-5BAE00B112F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA36D85-A0C1-4587-9B3E-5BAE00B112F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA36D85-A0C1-4587-9B3E-5BAE00B112F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA36D85-A0C1-4587-9B3E-5BAE00B112F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA36D85-A0C1-4587-9B3E-5BAE00B112F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DC81B73-07FE-45DE-B68B-76B6C75308BF}
+	EndGlobalSection
+EndGlobal
